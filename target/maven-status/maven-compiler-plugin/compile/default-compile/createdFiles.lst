@@ -1,0 +1,6 @@
+com\nour\series\service\SeriesServiceImpl.class
+com\nour\series\service\SeriesService.class
+com\nour\series\repos\SeriesRepository.class
+com\nour\series\controller\SeriesController.class
+com\nour\series\entites\Series.class
+com\nour\series\SeriesApplication.class
